@@ -1,0 +1,15 @@
+{
+    "users": {
+        "login": {
+            "username": "pepito",
+            "email": "pepito@yopmail.com",
+            "password": "12345678aA"
+        },
+        "registry": {
+            "username": "pepito",
+            "email": "e2e-{timestamp}@yopmail.com",
+            "password": "12345678aA"
+        }
+    },
+    "names":["dress","shirt"]
+}
